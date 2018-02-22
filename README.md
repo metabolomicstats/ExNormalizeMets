@@ -23,7 +23,7 @@ The input data format consists of three parts: (i) "featuredata" which is the me
 
 #### Installation and Usage
 
-For a detailed installation manual and user guide, view ExNormalizeMets_Manual.pdf
+For a detailed installation manual and user guide, view ExNormalizeMets_Manual.pdf.
 
 
 
