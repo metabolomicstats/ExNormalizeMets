@@ -3,7 +3,8 @@
 Authors: Gavriel Olshansky, Alysha M De Livera <br />
 License: GPL (>=2) <br />
 Contact: <br />
-* olshansky.g@unimelb.edu.au
+* Excel: olshansky.g@unimelb.edu.au'
+* R: alyshad@unimelb.edu.au
 
 <br />
 
