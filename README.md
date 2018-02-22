@@ -1,6 +1,6 @@
 # ExNormalizeMets
 
-Authors: Gavriel Olshansky, Alysha M De Livera <br />
+Authors: Alysha M De Livera and Gavriel Olshansly <br />
 License: GPL (>=2) <br />
 Contact: <br />
 * Excel: olshansky.g@unimelb.edu.au'
