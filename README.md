@@ -1,9 +1,9 @@
 # ExNormalizeMets
 
-Authors: Alysha M De Livera and Gavriel Olshansly <br />
+Authors: Alysha M De Livera, Gavriel Olshansly <br />
 License: GPL (>=2) <br />
 Contact: <br />
-* Excel: olshansky.g@unimelb.edu.au'
+* Excel: olshansky.g@unimelb.edu.au
 * R: alyshad@unimelb.edu.au
 
 <br />
@@ -24,7 +24,7 @@ The input data format consists of three parts: (i) "featuredata" which is the me
 
 #### Installation and Usage
 
-A detailed installation manual and user guide can be viewd [here]({{https://github.com/metabolomicstats/ExNormalizeMets/blob/master}}/ExNormalizeMets_manual.1.pdf).
+A detailed installation manual and user guide can be viewd [here]({{site.url}}/ExNormalizeMets_manual.1.pdf).
 
 
 
