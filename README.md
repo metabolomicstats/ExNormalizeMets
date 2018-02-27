@@ -1,5 +1,11 @@
 # ExNormalizeMets
 
+Authors: Alysha M De Livera, Gavriel Olshansky <br />
+License: GPL (>=2) <br />
+Contact: <br />
+* Excel: olshansky.g@unimelb.edu.au
+* R: alyshad@unimelb.edu.au
+<br />
 
 ## Software for Normalising and Analysing metabolomics data
 
@@ -19,16 +25,6 @@ The input data format consists of three parts: (i) "featuredata" which is the me
 ### Installation and Usage
 
 A detailed installation manual and user guide can be viewed [here]({{site.url}}/ExNormalizeMets/docs/ExNormalizeMets_manual.1.pdf).
-
-#### License
-
-Authors: Alysha M De Livera, Gavriel Olshansky <br />
-License: GPL (>=2) <br />
-Contact: <br />
-* Excel: olshansky.g@unimelb.edu.au
-* R: alyshad@unimelb.edu.au
-
-<br />
 
 ### Help
 
