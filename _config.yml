@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
-proj.docs: https://github.com/metabolomicstats/ExNormalizeMets/tree/master/docs
+baseurl: /ExNormalizeMets
+
